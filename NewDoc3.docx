@@ -1,8 +1,0 @@
-# Auto detect text files and perform LF normalization
-* text=auto
-A=0.2
-B=A*A;
-C=A*B;
-D=C*C;
-FF=D+1;
-hgf=uy;
